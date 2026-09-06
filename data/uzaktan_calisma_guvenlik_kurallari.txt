@@ -1,0 +1,9 @@
+Uzaktan Çalışma Güvenlik Kuralları
+
+Evden veya ofis dışından çalışan personel, kurumsal cihazını yalnızca kendisinin kullanacağı, aile üyeleri ve diğer kişilerin erişemeyeceği şekilde konumlandırmalıdır. Cihaz kısa süreliğine bile masa başından ayrılırken ekran kilidi (Windows tuşu + L) etkinleştirilmelidir; ekranlar en fazla 5 dakika hareketsizlikte otomatik kilitlenecek şekilde ayarlanmıştır.
+
+Video konferans görüşmelerinde, arka planda görünebilecek belge, ekran veya beyaz tahta gibi hassas bilgiler kapatılmalı ya da bulanıklaştırılmalıdır. Ekran paylaşımı yapmadan önce, paylaşılacak pencerede müşteri bilgisi, parola veya iç yazışma gibi ilgisiz içerik olmadığından emin olunmalıdır.
+
+Kurumsal belgeler kişisel yazıcılarda, kişisel e-posta hesaplarında veya kişisel bulut depolama alanlarında (örneğin kişisel Google Drive) saklanamaz. Ev ağı için üretici varsayılan şifresi yerine güçlü bir Wi-Fi şifresi kullanılmalı ve mümkünse ayrı bir "misafir ağı" üzerinden değil, ana ağdan güvenli şekilde bağlanılmalıdır.
+
+Kamuya açık alanlarda (kafe, tren, ortak çalışma alanı) çalışırken ekrana bakabilecek kişilere karşı gizlilik filtresi kullanılması önerilir. Uzaktan çalışma sırasında herhangi bir güvenlik şüphesi oluşursa (cihazın yavaşlaması, tanımadık pop-up pencereler, beklenmeyen oturum açma bildirimleri) durum "Olay Bildirimi" prosedürüne göre derhal Bilgi İşlem Güvenlik Ekibi'ne iletilmelidir.

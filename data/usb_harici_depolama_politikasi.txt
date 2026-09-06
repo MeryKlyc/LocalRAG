@@ -1,0 +1,9 @@
+USB ve Harici Depolama Cihazları Politikası
+
+Şirket bilgisayarlarına yalnızca Bilgi İşlem tarafından onaylanmış ve şifreli USB bellekler takılabilir. Kaynağı bilinmeyen bir USB bellek (örneğin otoparkta bulunan, hediye olarak gelen) hiçbir koşulda şirket cihazına takılmamalıdır; bu, kötü amaçlı yazılım bulaştırmanın en yaygın yollarından biridir.
+
+Kurumsal verilerin (müşteri bilgisi, kaynak kodu, finansal veriler) şifresiz USB bellek veya harici diske kopyalanması yasaktır. Veri taşıma ihtiyacı varsa öncelikle onaylı kurumsal bulut depolama alanı kullanılmalı; bu mümkün değilse yalnızca Bilgi İşlem tarafından sağlanan şifreli harici disk kullanılmalıdır.
+
+Tüm kurumsal bilgisayarlarda, önceden onaylanmamış USB depolama cihazlarını otomatik olarak engelleyen bir uç nokta koruma yazılımı çalışır. Bir cihazın engellenmesi durumunda çalışan Bilgi İşlem'e onay talebi açabilir; talep iş gerekçesiyle birlikte değerlendirilir.
+
+Bir USB bellek kaybolursa ya da üzerinde şifrelenmemiş kurumsal veri olduğu fark edilirse, durum "Cihaz Kaybı veya Çalınması Prosedürü" kapsamında değerlendirilir ve aynı bildirim süresi (1 saat) uygulanır.

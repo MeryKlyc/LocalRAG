@@ -1,0 +1,10 @@
+Belge adı: Phishing ve Şüpheli E-posta Prosedürü
+Sürüm: 1.0
+Tarih: 16 Ağustos 2026
+
+Şüpheli bir e-posta alındığında e-postadaki bağlantılara tıklanmaz ve ekler açılmaz.
+Gönderen adresi, alan adı ve yazım hataları kontrol edilir.
+Şüpheli e-posta silinmeden önce Bilgi İşlem Güvenlik Ekibine bildirilir.
+E-postadaki bağlantıya yanlışlıkla tıklandıysa cihazın internet bağlantısı kesilir.
+Kullanıcı, güvenli bir cihazdan parolasını değiştirir ve durumu derhal bildirir.
+Ekran görüntüsü, e-posta başlığı ve olay saati kanıt olarak saklanır.

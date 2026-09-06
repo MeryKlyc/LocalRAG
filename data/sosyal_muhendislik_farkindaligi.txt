@@ -1,0 +1,9 @@
+Sosyal Mühendislik Farkındalığı
+
+Sosyal mühendislik, saldırganların teknik açıklardan değil insan davranışından faydalanarak bilgi veya erişim elde etmeye çalıştığı yöntemlerin genel adıdır. En yaygın türleri şunlardır: kimlik avı (e-posta), vishing (telefonla ikna), pretexting (sahte senaryo uydurma) ve tailgating (yetkisiz kişinin fiziksel olarak binaya birlikte girmesi).
+
+Aşağıdaki durumlar sosyal mühendislik girişimine işaret edebilir: sizi aceleye getiren, "hemen şimdi yapmazsanız hesabınız kapanır" gibi aciliyet hissi yaratan mesajlar; normalde e-posta ile istenmeyen bilgileri (parola, kimlik numarası, banka bilgisi) soran talepler; üst düzey bir yöneticiden geliyormuş gibi görünen ama farklı bir e-posta adresinden gelen acil transfer talepleri; kimliğini doğrulayamadığınız birinin telefonla sizden uzaktan erişim yazılımı kurmanızı istemesi.
+
+Böyle bir durumla karşılaştığınızda: talebi hemen yerine getirmeyin, bilinen resmi bir kanaldan (örneğin şirket rehberindeki telefon numarasından, e-posta üzerinden değil) kişiyi veya kurumu doğrulayın, şüpheli e-postayı yanıtlamak yerine Bilgi İşlem Güvenlik Ekibi'ne yönlendirin.
+
+Fiziksel güvenlik de bu kapsamdadır: kimlik kartınızı görünür şekilde takın, tanımadığınız birinin kartsız şekilde sizinle birlikte kapıdan girmesine (tailgating) izin vermeyin, nazikçe kimlik kartını göstermesini isteyin ya da resepsiyona yönlendirin.

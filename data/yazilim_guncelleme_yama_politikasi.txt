@@ -1,0 +1,9 @@
+Yazılım Güncelleme ve Yama Politikası
+
+Tüm kurumsal cihazlarda işletim sistemi ve uygulama güncellemeleri otomatik olarak kontrol edilecek şekilde yapılandırılmalıdır; çalışanlar otomatik güncelleme ayarlarını kapatamaz. "Kritik" ve "Yüksek" önem dereceli güvenlik yamaları, yayınlandıktan sonra en geç 72 saat içinde tüm cihazlara uygulanmak zorundadır. Standart önem derecesindeki güncellemeler için bu süre 30 gündür.
+
+Bilgi İşlem, şirket genelindeki cihazların yama durumunu merkezi bir envanter sistemi ile takip eder. Belirtilen süre içinde güncellenmeyen bir cihaz, otomatik olarak kurumsal ağdan geçici olarak izole edilebilir; çalışan bu durumda Bilgi İşlem ile iletişime geçmelidir.
+
+Desteği sona ermiş (End-of-Life) işletim sistemi veya yazılım sürümlerinin kurumsal cihazlarda kullanılması yasaktır, çünkü bu yazılımlar için artık güvenlik yaması yayınlanmamaktadır. Yeni bir yazılımın kuruma dahil edilmesi öncesinde, Bilgi İşlem tarafından güvenlik açığı taraması yapılması zorunludur.
+
+Bir güncelleme sonrasında cihazda beklenmeyen bir davranış (çökme, yavaşlama, tanımadık bir işlem çalışması) gözlemlenirse, güncelleme geri alınmadan önce mutlaka Bilgi İşlem'e bildirilmelidir; bazı olağandışı davranışlar aslında kötü amaçlı yazılım belirtisi olabilir ve güncellemeyle karıştırılmamalıdır.

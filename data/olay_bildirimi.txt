@@ -1,0 +1,9 @@
+Belge adı: Siber Güvenlik Olay Bildirim Prosedürü
+Sürüm: 1.0
+Tarih: 16 Ağustos 2026
+
+Siber güvenlik olayı fark edildiğinde en kısa sürede Bilgi İşlem Güvenlik Ekibine bildirilmelidir.
+Bildirimde olayın zamanı, etkilenen cihaz, kullanıcı adı, olay açıklaması ve varsa ekran görüntüsü bulunmalıdır.
+Kanıt olabilecek e-postalar, dosyalar ve sistem kayıtları silinmemelidir.
+Kullanıcı kendi başına zararlı dosyayı incelemeye veya olayı gizlemeye çalışmamalıdır.
+Güvenlik ekibi olayın önceliğini değerlendirir ve gerekli müdahale adımlarını başlatır.

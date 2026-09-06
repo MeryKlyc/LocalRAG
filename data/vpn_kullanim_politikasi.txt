@@ -1,0 +1,9 @@
+VPN Kullanım Politikası
+
+Şirket ağına uzaktan bağlanan tüm çalışanlar, kurumsal VPN istemcisini kullanmak zorundadır. Herkese açık Wi-Fi ağlarında (kafe, havalimanı, otel gibi) VPN bağlantısı olmadan hiçbir kurumsal sisteme erişim sağlanmamalıdır. VPN bağlantısı için çok faktörlü kimlik doğrulama (MFA) zorunludur; sadece kullanıcı adı ve parola ile VPN'e bağlanmaya izin verilmez.
+
+VPN oturumu 8 saat sonunda otomatik olarak sonlanır ve yeniden kimlik doğrulama istenir. Çalışanlar VPN bağlantı bilgilerini (istemci sertifikası, yapılandırma dosyası) hiçbir şekilde başkalarıyla paylaşamaz veya kişisel bulut depolama alanlarına yükleyemez.
+
+Bir cihazda VPN bağlantısında olağandışı davranış (beklenmeyen bağlantı kopması, tanımadığınız bir sunucuya yönlendirme, sertifika uyarısı) fark ederseniz bağlantıyı derhal kesin ve Bilgi İşlem Güvenlik Ekibi'ne bildirin. Kişisel cihazlardan (BYOD) VPN erişimi, sadece Bilgi İşlem tarafından onaylanmış ve uç nokta güvenlik yazılımı kurulmuş cihazlarla mümkündür.
+
+VPN erişim yetkisi, çalışanın görev tanımına göre sınırlandırılır (en az ayrıcalık ilkesi); tüm iç kaynaklara sınırsız erişim varsayılan olarak verilmez. Yetkisiz bir kaynağa erişim ihtiyacı doğarsa, yöneticinizin onayıyla Bilgi İşlem'e talep açılmalıdır.

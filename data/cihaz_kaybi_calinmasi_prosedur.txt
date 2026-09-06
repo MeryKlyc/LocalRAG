@@ -1,0 +1,9 @@
+Cihaz Kaybı veya Çalınması Prosedürü
+
+Kurumsal bir dizüstü bilgisayar, telefon veya USB belleğin kaybolması ya da çalınması durumunda, çalışan bunu fark ettiği andan itibaren en geç 1 saat içinde Bilgi İşlem Güvenlik Ekibi'ne bildirmekle yükümlüdür. Bildirim telefon veya e-posta ile yapılabilir; hafta sonu ve tatil günlerinde de nöbetçi hat aktiftir.
+
+Bildirim alındıktan sonra Bilgi İşlem ekibi şu adımları uygular: cihazın uzaktan silinmesi (remote wipe) komutu gönderilir, cihaza bağlı kurumsal hesapların oturumları uzaktan kapatılır, cihazın VPN ve e-posta erişimi askıya alınır. Cihaz şifreli disk kullanıyorsa ve ekran kilidi aktifse veri sızıntısı riski önemli ölçüde azalır; bu yüzden tüm kurumsal cihazlarda disk şifreleme zorunludur.
+
+Çalınma durumunda çalışan aynı zamanda yerel kolluk kuvvetlerine de bildirim yapmalı ve tutanak numarasını Bilgi İşlem ile paylaşmalıdır. Kayıp cihazın üzerinde müşteri verisi, kaynak kodu veya kimlik bilgileri gibi hassas veri olduğu düşünülüyorsa, olay otomatik olarak "yüksek öncelikli veri ihlali" olarak sınıflandırılır ve üst yönetime bilgi verilir.
+
+Cihaz bulunduktan sonra bile, kaybolduğu süre boyunca kötü amaçlı yazılım bulaşmış olabileceğinden, cihaz yeniden kullanılmadan önce mutlaka Bilgi İşlem tarafından incelenmeli ve gerekirse fabrika ayarlarına sıfırlanmalıdır.

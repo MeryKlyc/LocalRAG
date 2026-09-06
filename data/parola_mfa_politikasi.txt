@@ -1,0 +1,11 @@
+Belge adı: Parola ve Çok Faktörlü Kimlik Doğrulama Politikası
+Sürüm: 1.0
+Tarih: 16 Ağustos 2026
+
+Parolalar en az 14 karakter olmalıdır.
+Aynı parola farklı hesaplarda tekrar kullanılmamalıdır.
+Parolalar paylaşılmamalıdır.
+Parola yöneticisi kullanılması önerilir.
+MFA, destekleyen tüm kritik hesaplarda etkinleştirilmelidir.
+MFA kodu hiç kimseyle paylaşılmaz.
+Şüpheli oturum bildirimi alındığında parola değiştirilir ve güvenlik ekibine haber verilir.

@@ -1,0 +1,9 @@
+Veri Sınıflandırma ve Paylaşım Politikası
+
+Kurum içindeki tüm veriler dört seviyede sınıflandırılır: Herkese Açık (halka açıklanabilir), İç Kullanım (sadece çalışanlar), Gizli (belirli ekipler, örneğin müşteri sözleşmeleri) ve Çok Gizli (kaynak kod, finansal raporlar, kişisel veriler gibi en hassas bilgiler). Her belge veya veri seti oluşturulduğunda, sahibi tarafından bu dört seviyeden birine atanmalıdır.
+
+Gizli ve Çok Gizli seviyedeki veriler, kurum dışına e-posta ile gönderilecekse mutlaka şifrelenmeli ve şifre, e-postadan farklı bir kanaldan (örneğin SMS veya telefon) alıcıya iletilmelidir. Çok Gizli veriler hiçbir koşulda kişisel e-posta adreslerine veya onaylanmamış üçüncü taraf uygulamalarına (kişisel WhatsApp, kişisel bulut hesapları) gönderilemez.
+
+Üçüncü bir tarafla (örneğin bir iş ortağı veya tedarikçi) Gizli veya Çok Gizli veri paylaşılması gerektiğinde, önce hukuk ve Bilgi İşlem Güvenlik Ekibi'nin onayı alınmalı ve bir gizlilik sözleşmesi (NDA) imzalanmalıdır. Paylaşılan verinin ne kadar süreyle saklanacağı ve iş ilişkisi bittiğinde nasıl silineceği de bu sözleşmede belirtilmelidir.
+
+Yanlışlıkla yanlış kişiye Gizli veya Çok Gizli veri içeren bir e-posta veya dosya gönderildiğinde, bu durum bir veri ihlali olarak kabul edilir ve "Olay Bildirimi" prosedürüne göre derhal Bilgi İşlem Güvenlik Ekibi'ne bildirilmelidir; alıcının veriyi sildiğini söylemesi, bildirim yükümlülüğünü ortadan kaldırmaz.
